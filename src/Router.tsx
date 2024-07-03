@@ -4,9 +4,9 @@ import About from './screens/About';
 import Home from './screens/Home';
 import Root from "./Root";
 import NotFound from './components/NotFound';
-import Author from './screens/users/Author';
-import Booktest from './screens/users/Book-test';
-import Book from './screens/users/Book';
+import Author from './screens/authors/Author';
+import Booktest from './screens/authors/Book-test';
+import Book from './screens/authors/Book';
 
 const router = createBrowserRouter([
   {
